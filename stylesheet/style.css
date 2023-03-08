@@ -1,0 +1,14 @@
+.banner {
+  background-image: url(../assets/akatsuki.jpg);
+  height: 100vh;
+  width: 100%;
+}
+
+ul li {
+  display: inline-block;
+  margin-left: 4rem;
+  list-style-type: none;
+  margin-right: -4px;
+  padding: 10px;
+  border-right: 1px solid white;
+}
